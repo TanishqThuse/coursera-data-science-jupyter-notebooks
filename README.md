@@ -1,1 +1,1 @@
-# coursera-data-science-jupyter-notebooks
+# Applied-Data-Science-Capstone
